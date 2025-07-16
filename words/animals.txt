@@ -1,0 +1,259 @@
+Elephant
+Tiger
+Lion
+Giraffe
+Zebra
+Kangaroo
+Panda
+Cheetah
+Leopard
+Wolf
+Fox
+Bear
+Raccoon
+Otter
+Deer
+Moose
+Buffalo
+Bison
+Hippopotamus
+Rhinoceros
+Camel
+Llama
+Alpaca
+Chimpanzee
+Gorilla
+Orangutan
+Baboon
+Mandrill
+Meerkat
+Hyena
+Jackal
+Coyote
+Wolverine
+Badger
+Mink
+Weasel
+Ferret
+Skunk
+Porcupine
+Armadillo
+Sloth
+Anteater
+Opossum
+Platypus
+Echidna
+Hedgehog
+Mole
+Shrew
+Bat
+Dolphin
+Whale
+Seal
+Sea lion
+Walrus
+Manatee
+Penguin
+Albatross
+Seagull
+Pelican
+Flamingo
+Swan
+Goose
+Duck
+Owl
+Hawk
+Falcon
+Eagle
+Vulture
+Buzzard
+Crow
+Raven
+Magpie
+Woodpecker
+Kingfisher
+Heron
+Stork
+Ibis
+Crane
+Parrot
+Toucan
+Cockatoo
+Macaw
+Canary
+Finch
+Sparrow
+Robin
+Bluejay
+Cardinal
+Goldfinch
+Hummingbird
+Kiwi
+Emu
+Ostrich
+Cassowary
+Quokka
+Wombat
+Tasmanian Devil
+Jaguar
+Snow Leopard
+Clouded Leopard
+Serval
+Caracal
+Ocelot
+Lynx
+Cougar
+Bobcat
+Mongoose
+Aardvark
+Aardwolf
+Dingo
+Red Fox
+Arctic Fox
+Fennec Fox
+Gray Wolf
+Ethiopian Wolf
+Dhole
+African Wild Dog
+Brown Bear
+Polar Bear
+Sun Bear
+Sloth Bear
+Spectacled Bear
+Giant Panda
+Red Panda
+Mountain Gorilla
+Eastern Gorilla
+Western Lowland Gorilla
+Bonobo
+Proboscis Monkey
+Golden Snub-nosed Monkey
+Howler Monkey
+Capuchin Monkey
+Tamarin
+Spider Monkey
+Saki Monkey
+Gibbon
+Colobus Monkey
+Langur
+Gelada
+Tarsier
+Slow Loris
+Sugar Glider
+Wallaby
+Tree Kangaroo
+Kinkajou
+Coati
+Raccoon Dog
+Flying Squirrel
+Beaver
+Muskrat
+Capybara
+Agouti
+Pacarana
+Chinchilla
+Tenrec
+Star-nosed Mole
+Water Shrew
+Elephant Shrew
+Flying Fox
+Fruit Bat
+Water Opossum
+Quoll
+Numbat
+Bandicoot
+Bilby
+Koala
+Wallaroo
+Dromedary
+Bactrian Camel
+Vicuna
+Guanaco
+Dugong
+Narwhal
+Beluga
+Orca
+Sperm Whale
+Humpback Whale
+Blue Whale
+Fin Whale
+Minke Whale
+Bowhead Whale
+Gray Whale
+Bottlenose Dolphin
+Spinner Dolphin
+Amazon River Dolphin
+Pacific White-sided Dolphin
+Harbor Porpoise
+Vaquita
+Common Dolphin
+Pilot Whale
+Elephant Seal
+Sea Otter
+Leopard Seal
+Crabeater Seal
+Ross Seal
+Weddell Seal
+Bearded Seal
+Harp Seal
+Ribbon Seal
+Fur Seal
+Blue-footed Booby
+Brown Pelican
+Great Egret
+Little Egret
+Great Blue Heron
+Roseate Spoonbill
+Puffin
+Atlantic Puffin
+Horned Puffin
+Tufted Puffin
+Wandering Albatross
+Black-footed Albatross
+Laysan Albatross
+Frigatebird
+Magnificent Frigatebird
+Cormorant
+Double-crested Cormorant
+Anhinga
+Great Cormorant
+Snowy Owl
+Barn Owl
+Eastern Screech Owl
+Great Horned Owl
+Barred Owl
+Long-eared Owl
+Short-eared Owl
+Tawny Owl
+Burrowing Owl
+Peregrine Falcon
+Kestrel
+Merlin
+Gyrfalcon
+American Kestrel
+Red-tailed Hawk
+Cooper’s Hawk
+Sharp-shinned Hawk
+Broad-winged Hawk
+Swainson’s Hawk
+Northern Harrier
+Osprey
+Bald Eagle
+Golden Eagle
+Turkey Vulture
+Black Vulture
+King Vulture
+California Condor
+Secretary Bird
+Roadrunner
+Common Raven
+American Crow
+European Starling
+House Sparrow
+House Finch
+American Goldfinch
+Northern Cardinal
+Blue Jay
+Common Grackle
+European Robin
+Song Thrush

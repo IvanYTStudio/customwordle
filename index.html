@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Custom Wordle</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+</head>
+<body>
+  <div class="container-home">
+    <h1>Custom Wordle</h1>
+
+    <label for="category">Choose a category:</label>
+    <br>
+    <select id="category">
+      <option value="words/actorsandactresses.txt">Actors & Actresses</option>
+      <option value="words/animals.txt">Animals</option>
+      <option value="words/basketball.txt">Basketball Players</option>
+      <option value="words/countries.txt">Countries</option>
+      <option value="words/footballers.txt">Footballers</option>
+      <option value="words/movies.txt">Movies</option>
+      <option value="words/songs.txt">Songs</option>
+      <option value="words/tennis.txt">Tennis Players</option>
+      <option value="words/athletics.txt">Track and Field Athletes</option>
+      <option value="words/tvshows.txt">TV Shows</option>
+      <option value="words/videogames.txt">Video Games</option>
+      <option value="words/words.txt">Words</option>
+      <option value="words/youtubersandstreamers.txt">Youtubers and Streamers</option>
+    </select>
+
+    <div class="or">OR</div>
+
+    <label for="customFile">Upload your own .txt word list:</label>
+    <input type="file" id="customFile" accept=".txt" />
+    <br>
+
+    <button id="startGame">Start Game</button>
+  </div>
+
+  <script>
+    document.getElementById("startGame").addEventListener("click", () => {
+      const fileInput = document.getElementById("customFile");
+      const selectedCategory = document.getElementById("category").value;
+
+      if (fileInput.files.length > 0) {
+        const reader = new FileReader();
+        reader.onload = function () {
+          localStorage.setItem("wordList", reader.result);
+          localStorage.setItem("fromUpload", "true");
+          window.location.href = "game.html";
+        };
+        reader.readAsText(fileInput.files[0]);
+      } else {
+        fetch(selectedCategory)
+          .then(res => res.text())
+          .then(data => {
+            localStorage.setItem("wordList", data);
+            localStorage.setItem("fromUpload", "false");
+            window.location.href = "game.html";
+          });
+      }
+    });
+  </script>
+</body>
+</html>
