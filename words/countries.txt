@@ -1,6 +1,6 @@
 Russia
 Canada
-United States
+UnitedStates
 China
 Brazil
 Australia
@@ -8,8 +8,8 @@ India
 Argentina
 Kazakhstan
 Algeria
-Democratic Republic of the Congo
-Saudi Arabia
+DemocraticRepublicoftheCongo
+SaudiArabia
 Mexico
 Indonesia
 Sudan
@@ -21,7 +21,7 @@ Chad
 Niger
 Angola
 Mali
-South Africa
+SouthAfrica
 Colombia
 Ethiopia
 Bolivia
@@ -38,10 +38,10 @@ Chile
 Zambia
 Myanmar
 Afghanistan
-South Sudan
+SouthSudan
 France
 Somalia
-Central African Republic
+CentralAfricanRepublic
 Ukraine
 Madagascar
 Botswana
@@ -50,7 +50,7 @@ Thailand
 Spain
 Turkmenistan
 Cameroon
-Papua New Guinea
+PapuaNewGuinea
 Yemen
 Sweden
 Uzbekistan
@@ -61,21 +61,21 @@ Zimbabwe
 Norway
 Japan
 Germany
-Republic of the Congo
+RepublicoftheCongo
 Finland
 Vietnam
 Malaysia
-Ivory Coast
+IvoryCoast
 Poland
 Oman
 Italy
 Philippines
 Ecuador
-Burkina Faso
-New Zealand
+BurkinaFaso
+NewZealand
 Gabon
 Guinea
-United Kingdom
+UnitedKingdom
 Uganda
 Ghana
 Romania
@@ -94,7 +94,7 @@ Nepal
 Tajikistan
 Greece
 Nicaragua
-North Korea
+NorthKorea
 Malawi
 Eritrea
 Benin
@@ -104,28 +104,28 @@ Bulgaria
 Cuba
 Guatemala
 Iceland
-South Korea
+SouthKorea
 Hungary
 Portugal
 Jordan
 Serbia
 Azerbaijan
 Austria
-United Arab Emirates
-Czech Republic
+UnitedArabEmirates
+CzechRepublic
 Panama
-Sierra Leone
+SierraLeone
 Ireland
 Georgia
-Sri Lanka
+SriLanka
 Lithuania
 Latvia
 Togo
 Croatia
-Bosnia and Herzegovina
-Costa Rica
+BosniaandHerzegovina
+CostaRica
 Slovakia
-Dominican Republic
+DominicanRepublic
 Estonia
 Denmark
 Netherlands
@@ -136,22 +136,22 @@ Moldova
 Belgium
 Lesotho
 Armenia
-Solomon Islands
+SolomonIslands
 Albania
-Equatorial Guinea
+EquatorialGuinea
 Burundi
 Haiti
 Rwanda
-North Macedonia
+NorthMacedonia
 Djibouti
 Belize
 Israel
-El Salvador
+ElSalvador
 Slovenia
 Fiji
 Kuwait
 Eswatini
-East Timor
+EastTimor
 Bahamas
 Montenegro
 Vanuatu
@@ -162,35 +162,35 @@ Lebanon
 Cyprus
 Palestine
 Brunei
-Trinidad and Tobago
-Cape Verde
+TrinidadandTobago
+CapeVerde
 Samoa
 Luxembourg
 Mauritius
 Comoros
-São Tomé and Príncipe
+SaoTomeandPrincipe
 Kiribati
 Bahrain
 Dominica
 Tonga
 Singapore
 Micronesia
-Saint Lucia
+SaintLucia
 Andorra
 Palau
 Seychelles
-Antigua and Barbuda
+AntiguaandBarbuda
 Barbados
-Saint Vincent and the Grenadines
+SaintVincentandtheGrenadines
 Grenada
 Malta
 Maldives
-Saint Kitts and Nevis
-Marshall Islands
+SaintKittsandNevis
+MarshallIslands
 Liechtenstein
-San Marino
+SanMarino
 Tuvalu
 Nauru
 Monaco
-Vatican City
+VaticanCity
 Taiwan
